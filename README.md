@@ -1,2 +1,2 @@
 # Document-RAG-Chatbot
-RAG-chatbot using TogetherAI and langchain
+RAG-chatbot using TogetherAI and langChain
